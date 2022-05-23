@@ -1,2 +1,4 @@
 # Dio-desafio-Github-primeiro-repositorio
-Desafio de projeto sobre Git/Github
+Repositório criado para o Desafio de Projeto. 
+
+## Desafio de projeto sobre Git/Github
